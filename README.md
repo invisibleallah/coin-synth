@@ -49,6 +49,7 @@ Collectors benefit from:
 	•	Culturally dynamic, limited-edition tokens with evolving narratives
 
 ⸻
+![telegram-cloud-photo-size-5-6334706660429383370-y](https://github.com/user-attachments/assets/3832658d-86c7-4126-b526-3101a5ca43d4)
 
 🚀 Key Features and Innovations
 
