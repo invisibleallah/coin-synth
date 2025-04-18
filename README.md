@@ -57,7 +57,7 @@ Collectors benefit from:
 	•	Uses diffusion models & GANs
 	•	Prompts guided by live sentiment & trending topics
 
-🔗 Deep Zora SDK Integration
+🔗 Zora Coins SDK Integration
 	•	Secure coin minting & metadata embedding
 	•	On-chain token management with full Zora Coins support
 
